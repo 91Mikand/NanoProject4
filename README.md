@@ -34,6 +34,7 @@ For this project, I had three available datasets in a form of .json files:
 - portfolio.json
 - profile.json
 - transcript.json
+
 Portfolio.json contains the data about the offers — their types, duration, etc.
 Profile.json contains information about the users — their gender, age, income and the time when they became the member.
 Transcript.json is basically a log of transaction and offer completions. Unfortunately this file is too big to upload it on github, therefore I uploaded it to WeTransfer: https://we.tl/t-1rvf9FhQtq
